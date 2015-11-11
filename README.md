@@ -1,2 +1,2 @@
 # Miniprojekt2
-The second Miniprojet :)
+The second Miniprojekt :)
